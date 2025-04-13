@@ -73,8 +73,8 @@ async def shayri(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💘𝚂𝚄𝙿𝙿𝙾𝚁𝚃💘", url="https://t.me/UFC_NETWORK"),
-                    InlineKeyboardButton("💘ɪɴɴᴏᴄᴇɴᴛ ʙᴀᴄʜᴀ ⁣⁣⁣⁤💘", url="https://t.me/UFC_INOCENT"),
+                    InlineKeyboardButton("💘𝚂𝚄𝙿𝙿𝙾𝚁𝚃💘", url="https://t.me/TG_TELEGRAM_KI_DUNIYA"),
+                    InlineKeyboardButton("💘CHIKU ⁣⁣⁣⁤💘", url="https://t.me/Chiku_0824"),
                 ]
            ]
         ),
